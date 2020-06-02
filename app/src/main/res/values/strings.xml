@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Paging Using Runtime Paging Library</string>
+    <string name="error">ERROR !! Tap to retry.</string>
+</resources>
